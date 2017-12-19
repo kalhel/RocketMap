@@ -1,7 +1,7 @@
 {
   "name": "RocketMap",
   "description": "Live visualization of all the Pokémon (with option to show gyms and pokéstops) in an area on Pokémon Go.",
-  "repository": "https://github.com/RocketMap/RocketMap/",
+  "repository": "https://github.com/kalhel/RocketMap.git",
   "website": "https://jz6.github.io/PoGoMap/",
   "env": {
     "AUTH_SERVICE": {
