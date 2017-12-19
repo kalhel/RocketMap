@@ -36,6 +36,7 @@
     "watch": "grunt default",
     "lint": "grunt lint",
     "grunt": "grunt"
+    "postinstall": "npm install && npm run build"
   },
   "repository": {
     "type": "git",
