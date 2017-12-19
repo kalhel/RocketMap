@@ -35,12 +35,12 @@
     "build": "grunt build",
     "watch": "grunt default",
     "lint": "grunt lint",
-    "grunt": "grunt"
+    "grunt": "grunt",
     "postinstall": "npm install && npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RocketMap/RocketMap.git"
+    "url": "git+https://github.com/kalhel/RocketMap.git"
   },
   "keywords": [
     "Pokemon",
